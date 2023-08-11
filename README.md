@@ -16,6 +16,7 @@
 | Added from _staging |
 | Added from main |
 | Another row from _staging |
+| 2023-08-11 |
 
 # Heading 1[^11]
 
