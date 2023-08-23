@@ -17,7 +17,7 @@
 | Added from main |
 | Another row from _staging |
 | 2023-08-11 |
-| 2023-08-18 *keep streak alive |
+| 2023-08-18 *keep streak alive* |
 
 # Heading 1[^11]
 
